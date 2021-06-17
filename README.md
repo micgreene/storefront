@@ -1,4 +1,4 @@
-# Application State with Redux
+# Lab 36: Application State with Redux
 
 - Pull Request for this Lab: 
 
